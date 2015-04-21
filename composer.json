@@ -1,6 +1,7 @@
 {
   "name": "vitalik74/comagic-api",
   "description": "Implement API for comagic.ru",
+  "version": "0.1.0",
   "keywords": [
     "comagic",
     "comagic-api",

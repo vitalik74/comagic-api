@@ -1,8 +1,33 @@
+# phpstorm project files
 .idea
-/.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+/vendor/autoload.php
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
 composer.lock
 
-tests/_output/*
 authParams.php
-/vendor
-composer.phar
+/vendor/autoload.php
