@@ -1,0 +1,38 @@
+{
+  "name": "vitalik74/comagic-api",
+  "description": "Implement API for comagic.ru",
+  "keywords": [
+    "comagic",
+    "comagic-api",
+    "comagic api",
+    "api comagic"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tsibikov Vitaliy",
+      "email": "tsibikov_vit@mail.ru",
+      "homepage": "http://tsibikov.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/vitalik74/comagic-api/issues?state=open",
+    "source": "https://github.com/vitalik74/comagic-api",
+    "email": "tsibikov_vit@mail.ru"
+  },
+  "require": {
+    "vitalik74/simple-request-json": "*"
+  },
+  "require-dev": {
+    "codeception/codeception": "2.0.12",
+    "codeception/specify": "0.4.1",
+    "codeception/verify": "0.2.7"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "vitalik74\\comagic\\": ""
+    }
+  }
+}

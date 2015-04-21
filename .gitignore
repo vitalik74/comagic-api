@@ -1,0 +1,8 @@
+.idea
+/.idea
+composer.lock
+
+tests/_output/*
+authParams.php
+/vendor
+composer.phar
